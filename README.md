@@ -1,5 +1,5 @@
 # HexColor
-[License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Add HexColor type.
 
@@ -18,3 +18,4 @@ from HexColor import HexColor
 
 hexcolor = HexColor("#000000")
 ```
+
